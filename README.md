@@ -1,7 +1,7 @@
 # yarll
-Yet Another Reinforcement-Learning Library
+Yet Another Reinforcement Learning Library
 
-Flexible Reinforcement-Learning with Python and Tensorflow
+Flexible Reinforcement Learning with Python and Tensorflow
 
 
 ## Current Agents
